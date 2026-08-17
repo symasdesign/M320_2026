@@ -22,7 +22,25 @@ namespace HelloWorld {
 
             //var res = Add(5, 7);
 
-            //var a = 5;
+            int[] values = new int[20];
+            values[3] = 7;
+
+            int[] values2 = new int[25];
+            Console.WriteLine(values2[3]);
+
+            // for-Schleife(init schleifenvariable; schleifen-bedingung; aktion nach jeder itration)
+            for (int i = 0; i < 20; i++) {
+                values2[i] = values[i];
+            }
+            Console.WriteLine(values2[3]);
+
+            Person p2 = new Person();
+            Person[] persList = new Person[20];
+
+            return;
+            //values[23] = 6;
+
+            //int a = 5;
             //PrintNumber(a);
             //Console.WriteLine($"Main: {a}");
 
