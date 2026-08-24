@@ -1,5 +1,7 @@
 <Solution>
+  <Project Path="ClassDemo/ClassDemo.csproj" Id="f8083f75-8f46-43a2-a4ff-7f70f2765e4d" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="Minesweeper/Minesweeper.csproj" />
   <Project Path="MyMath/MyMath.csproj" />
+  <Project Path="RepArray/RepArray.csproj" Id="48dd2763-25f4-4adc-a521-b7a6b65a3bb5" />
 </Solution>
